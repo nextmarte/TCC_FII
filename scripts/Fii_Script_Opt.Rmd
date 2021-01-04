@@ -10,29 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r}
 
-
-
-
-library(tidyverse)
-library(lubridate)
-library(highcharter)
-library(tidyquant)
-library(tibbletime)
-library(quantmod)
-library(PerformanceAnalytics)
-library(PortfolioAnalytics)
-library(timetk)
-library(esquisse)
-library(plotly)
-
-
-
-
-
-
-```
 
 ```{r}
 
