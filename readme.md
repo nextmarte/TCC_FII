@@ -3,3 +3,5 @@
 Trabalho de conclusão do curso apresentado ao curso de Graduação em Administração, do Departamento de Administração da Universidade Federal Fluminense, como requisito para aprovação na disciplina STA00178 – trabalho de conclusão de curso.
 
 Neste repositório foram colocados todos os códigos usados no desenvolvimento do trabalho, bem como todas as bases de dados usadas.
+
+Para esclarecimento de dúvidas quanto ao uso dos scripts entre em contato pelo e-mail: marcusantonio@id.uff.br
