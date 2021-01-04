@@ -90,7 +90,7 @@ pricesfii <-
 ###############################################################################
 #
 #Otimização.
-#Script adaptadp de www.codingfinance.com/post/2018-05-31-portfolio-opt-in-r/
+#Script adaptado de www.codingfinance.com/post/2018-05-31-portfolio-opt-in-r/
 #
 ###############################################################################
 #guarda os retornos já calculados
